@@ -1,2 +1,1 @@
-# FSWD_pm_seven
-Lesson#3(use_of_selector)
+https://altairabdullah.github.io/FSWD_pm_seven/
